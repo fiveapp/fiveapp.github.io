@@ -156,3 +156,7 @@ input {
   -moz-transition: opacity .55s ease-in-out;
   -webkit-transition: opacity .55s ease-in-out;
 }
+
+#mc-embedded-subscribe{
+  font-style: normal;
+}
